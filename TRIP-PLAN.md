@@ -98,22 +98,18 @@ Tours and Blois fill up fast in July.
 
 ### July 1 — Arrive Paris → Cahors
 
-Fly in, get to Gare d'Austerlitz, take the train south. One night in Paris max — ideally near the station.
-
 **Station:** Paris **Gare d'Austerlitz** (not Gare de Lyon or Gare du Nord) — Métro line 5 or 10.
 
-- **Intercités → Cahors** ~5.5h · ~€20–25 ticket + €10 bike (luggage van — already reserved)
-
-**Station:** Paris **Gare d'Austerlitz** (not Gare de Lyon or Gare du Nord) — Métro line 5 or 10.
-
-- **Intercités → Cahors** ~5.5h · ~€20–25 ticket + €10 bike (luggage van — already reserved)
+- **Intercités → Cahors** ~5.5h · ~€20–25 + €10 bike (luggage van — reserved)
 - Buy food before boarding
 
 **Arrive Cahors, late afternoon**
-- Walk to **Pont Valentré** — UNESCO World Heritage medieval bridge, 2 min from city center. Worth 30 min at dusk.
-- Stock up for tomorrow's ride: fill bottles, buy food. This is the last full city before the festival.
+- Walk to **Pont Valentré** — UNESCO World Heritage medieval bridge, 2 min from city center.
+- Stock up: fill bottles, buy food. Last full city before the festival.
 
-**Sleep:** Cahors (see lodging table above)
+**Sleep:** Cahors
+- Camping Rivière de Cabessut ~€15 — [cabessut.com](https://www.cabessut.com/)
+- Auberge de Jeunesse "Le Chai" ~€22/dorm — [hifrance.org](https://www.hifrance.org/auberges-de-jeunesse/cahors-le-chai/)
 
 ---
 
@@ -132,7 +128,7 @@ Check conditions before departure: [cahorsvalleedulot.com](https://www.cahorsval
 | **Cajarc** | 40 | Last real stop. Café, boulangerie. Top up everything — nothing between here and the festival. |
 | Festival | 55 | Set up camp. |
 
-**Sleep:** On-site camping (RA.co) · Backup: Camping Le Terriol, Cajarc
+**Sleep:** On-site camping — [ra.co](https://ra.co) · Backup: Camping Le Terriol, Cajarc — [campingleterriol.com](https://www.campingleterriol.com/en/)
 
 ---
 
@@ -150,7 +146,9 @@ Bike shop: Velo Sport Figeac (~25 km) — closest to venue
 **Afternoon:** Train Cahors → Angoulême via Agen + Bordeaux (~4.5h · ~€30–40 + bike, 1–2 changes)
 Aim to arrive Angoulême by evening.
 
-**Sleep:** Angoulême (see lodging table)
+**Sleep:** Angoulême
+- Bel Air Village camping ~€15–22 — [camping-angouleme.fr](https://camping-angouleme.fr/en/)
+- ibis budget Angoulême Centre ~€57–70
 
 ---
 
@@ -162,7 +160,7 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 - **Cité Internationale de la Bande Dessinée** — world-class comics museum, whole city covered in murals
 - Walk the ramparts — city sits on a promontory, views over the Charente valley
 
-**Sleep:** Angoulême
+**Sleep:** Same as July 6
 
 ---
 
@@ -176,7 +174,7 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 | Ruffec | 45 | Boulangerie, café. Lunch. |
 | Villages | every 15–20 km | Water fountain in each square |
 
-**Sleep:** Poitiers — ibis budget Poitiers Centre Gare (**bike shelter**)
+**Sleep:** Poitiers — ibis budget Poitiers Centre Gare (**bike shelter**) — [booking.com](https://www.booking.com/hotel/fr/ibis-budget-gare-de-poitiers.html)
 
 ---
 
@@ -188,7 +186,7 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 | **Châtellerault** | ~75 | Good lunch town, last real stop before Tours |
 | Tours | ~100 | Full city, everything available |
 
-**Sleep:** Tours — The People Hostel (**Accueil Vélo**) · Book early.
+**Sleep:** Tours — The People Hostel (**Accueil Vélo**) — [thepeoplehostel.com](https://www.thepeoplehostel.com/en/destinations/tours/) · Book early.
 
 ---
 
@@ -202,9 +200,9 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 | **Chaumont-sur-Loire** | 42 | **Festival International des Jardins** runs Apr 22–Nov 1, 2026 — 30 international designers on château grounds. Right on the D952. [domaine-chaumont.fr](https://domaine-chaumont.fr/) Café. |
 | **Blois** | 55 | Major town, everything available. **Château Royal de Blois** — four wings, four centuries; Catherine de Médicis's hidden cabinet rooms. |
 
-**Sleep:** Blois — Éthic Étapes Val de Loire (**Accueil Vélo**) · Book early.
+**Sleep:** Blois — Éthic Étapes Val de Loire (**Accueil Vélo**) — [ethicetapes-blois.fr](https://www.ethicetapes-blois.fr/en/) · Book early.
 
-> **Amboise overnight option:** Night at Camping Île d'Or (~€12–18), then easy 40 km to Blois next morning.
+> **Amboise overnight option:** Camping Île d'Or ~€12–18 — [camping-amboise.com](https://www.camping-amboise.com/) · Then easy 40 km to Blois next morning.
 
 ---
 
@@ -218,7 +216,7 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 | **Beaugency** | 40 | Tour de César — massive Romanesque keep standing loose in the town square, 200 years older than the châteaux. Café. |
 | **Orléans** | 60 | Full city. **Cathédrale Sainte-Croix** — stained glass tells the full Joan of Arc story around the nave. |
 
-**Sleep:** Orléans — Auberge de Jeunesse d'Orléans
+**Sleep:** Orléans — Auberge de Jeunesse d'Orléans — [aubergedejeunesseorleans.fr](http://www.aubergedejeunesseorleans.fr/)
 
 ---
 
@@ -281,48 +279,17 @@ Your routes (Lot Valley, Loire Valley) have no TDF conflicts.
 
 ---
 
-### French Vocabulary
+### Words to Know
 
-#### On the Road
-| French | English |
-|--------|---------|
-| piste cyclable | bike path |
-| voie verte | greenway (car-free) |
-| véloroute | signed cycling route |
-| tout droit | straight ahead |
-| à gauche / à droite | left / right |
-| côte / montée | hill / climb |
-| descente | descent |
-| rond-point | roundabout |
-| sens unique | one way |
-| interdit | forbidden / no entry |
+**Riding**
+*tout droit* — straight ahead · *à gauche / à droite* — left / right · *côte* — hill · *rond-point* — roundabout
 
-#### Bike Mechanics
-| French | English |
-|--------|---------|
-| pneu (le) | tire |
-| chambre à air | inner tube |
-| crevaison / j'ai crevé | flat tire / I got a flat |
-| frein (le) | brake |
-| chaîne (la) | chain |
-| pompe (la) | pump |
-| magasin de vélos | bike shop |
-| Vous pouvez réparer mon vélo ? | Can you fix my bike? |
-| J'ai besoin d'une chambre à air | I need an inner tube |
+**If something breaks**
+*J'ai crevé* — I got a flat · *magasin de vélos* — bike shop · *J'ai besoin d'une chambre à air* — I need an inner tube · *Vous pouvez réparer mon vélo?* — Can you fix my bike?
 
-#### Café & Lodging
-| French | English |
-|--------|---------|
-| un café / un café allongé | espresso / Americano |
-| un café crème | coffee with cream |
-| une carafe d'eau | free tap water (just ask) |
-| une tartine | bread with butter/jam |
-| le plat du jour | daily special |
-| l'addition, s'il vous plaît | the bill, please |
-| auberge de jeunesse | youth hostel |
-| chambre d'hôtes | B&B |
-| Avez-vous de la place ? | Do you have availability? |
-| Je suis à vélo | I'm on a bike (often gets discounts) |
-| stockage vélo | bike storage |
-| Bonne route ! | Safe travels! |
+**At a café**
+*un café crème* — coffee with cream · *une tartine* — bread + butter · *le plat du jour* — daily special · *une carafe d'eau* — free tap water, just ask · *l'addition, s'il vous plaît* — the bill
+
+**Useful anywhere**
+*Je suis à vélo* — I'm on a bike (say this, people are nicer) · *Bonne route!* — safe travels · *C'est loin?* — is it far? · *Merci beaucoup* — thank you
 
