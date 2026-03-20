@@ -1,0 +1,32 @@
+title: France 2026 — Memòri Trip
+description: Bike trip from Cahors to the Memòri Festival + Loire Valley return
+
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+color_scheme: light
+
+# Makes the single page act as the home page
+nav_enabled: true
+search_enabled: true
+heading_anchors: true
+
+# Footer
+footer_content: "France 2026 · Pete"
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+aux_links:
+  "Edit this page":
+    - "https://github.com/GITHUB_USERNAME/REPO_NAME/edit/main/index.md"
+
+callouts_level: quiet
+callouts:
+  warning:
+    title: Warning
+    color: red
+  tip:
+    title: Tip
+    color: green
