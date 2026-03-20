@@ -20,7 +20,7 @@ plugins:
 
 aux_links:
   "Edit this page":
-    - "https://github.com/GITHUB_USERNAME/REPO_NAME/edit/main/index.md"
+    - "https://github.com/toolnyc/france-26/edit/main/index.md"
 
 callouts_level: quiet
 callouts:
