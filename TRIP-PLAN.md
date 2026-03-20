@@ -62,7 +62,7 @@ Tours and Blois fill up fast in July.
 
 | Night | Option | Est. Price |
 |-------|--------|-----------|
-| Paris (inbound) | Boutique hotel €100–180 · Generator Paris hostel ~€30–40/dorm | varies |
+| Paris (inbound, if needed) | Budget hotel near Gare d'Austerlitz — you're just sleeping | ~€80–120 |
 | Cahors | Camping Rivière de Cabessut · [cabessut.com](https://www.cabessut.com/) | ~€15 |
 | Cahors *(alt)* | Auberge de Jeunesse "Le Chai" · [hifrance.org](https://www.hifrance.org/auberges-de-jeunesse/cahors-le-chai/) | ~€22/dorm |
 | Festival | On-site camping (RA.co) or Camping Le Terriol, Cajarc | varies |
@@ -96,41 +96,13 @@ Tours and Blois fill up fast in July.
 
 ---
 
-### June 29 — Arrive Paris
+### July 1 — Arrive Paris → Cahors
 
-Get to hotel. Eat something. Sleep.
+Fly in, get to Gare d'Austerlitz, take the train south. One night in Paris max — ideally near the station.
 
-**Sleep:** Paris — Marais, Montmartre, or Bastille
-Boutique €100–180 · Generator Paris hostel ~€30–40/dorm
+**Station:** Paris **Gare d'Austerlitz** (not Gare de Lyon or Gare du Nord) — Métro line 5 or 10.
 
----
-
-### June 30 — Paris Tourist Day
-
-Leave the bike at the hotel. Métro day pass ~€16.
-
-**Morning**
-- **Notre-Dame** — fully reopened Dec 2024. Free to enter. Walk across to Île de la Cité.
-- **Sainte-Chapelle** — 100m from Notre-Dame inside the Palais de Justice. Best Gothic stained glass in the world. ~€15. Don't miss it.
-- Walk Pont Neuf back across the Seine
-
-**Midday**
-- **Le Marais** (3e/4e) — **Place des Vosges**, Rue des Rosiers (falafel). Lunch: L'As du Fallafel or any brasserie with *le plat du jour*.
-
-**Afternoon — pick one or two**
-- **Trocadéro** — free Eiffel Tower view across the Seine, no queue
-- **Musée de Cluny** — small medieval art museum; the Lady and the Unicorn tapestries
-- **Canal Saint-Martin** (10e) — iron footbridges, locks, zero tourists
-
-**Evening**
-- Métro to **Montmartre** / **Sacré-Coeur** for sunset. All of Paris below you.
-- Dinner in Montmartre
-
-> Most major museums closed Monday — check before visiting any specific institution.
-
----
-
-### July 1 — Paris → Cahors
+- **Intercités → Cahors** ~5.5h · ~€20–25 ticket + €10 bike (luggage van — already reserved)
 
 **Station:** Paris **Gare d'Austerlitz** (not Gare de Lyon or Gare du Nord) — Métro line 5 or 10.
 
@@ -257,12 +229,28 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 - **Orléans → Paris Austerlitz TER** — ~1h · ~€15–20 + bike (luggage van, already reserved)
 - Early train arrives Paris ~8:15 AM
 
-**Paris: last day**
-- Leave bikes at hotel, walk the city
-- Best neighborhoods: Marais, Saint-Germain, Montmartre
-- Dinner: pick somewhere good — you're done riding
+**Paris: tourist day** — leave bikes at hotel, Métro day pass ~€16.
 
-**Sleep:** Paris splurge hotel. Book 2–3 months ahead.
+**Morning**
+- **Notre-Dame** — fully reopened Dec 2024. Free to enter. Walk across to Île de la Cité.
+- **Sainte-Chapelle** — 100m from Notre-Dame inside the Palais de Justice. Best Gothic stained glass in the world. ~€15.
+- Walk Pont Neuf back across the Seine
+
+**Midday**
+- **Le Marais** (3e/4e) — **Place des Vosges**, Rue des Rosiers (falafel). Lunch: L'As du Fallafel or any brasserie with *le plat du jour*.
+
+**Afternoon — pick one or two**
+- **Trocadéro** — free Eiffel Tower view, no queue
+- **Musée de Cluny** — small medieval museum; the Lady and the Unicorn tapestries
+- **Canal Saint-Martin** (10e) — iron footbridges, locks, zero tourists
+
+**Evening**
+- **Montmartre / Sacré-Coeur** for sunset
+- Dinner: you're done riding — pick somewhere good
+
+> Most major museums closed Monday — check before visiting any specific institution.
+
+**Sleep:** Paris splurge hotel — Marais (3e/4e), Montmartre (18e), or Bastille (11e/12e). Book 2–3 months ahead.
 
 ---
 
