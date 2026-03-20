@@ -7,15 +7,6 @@
 
 ## Before You Go
 
-### Buy Festival Ticket — Do This Now
-
-- [ ] **Festival ticket** — ra.co (limited to 2,000 people)
-- [ ] **Camping pass** — ra.co or [memori-festival.fr/infos-and-facilities](https://memori-festival.fr/infos-and-facilities)
-  - Teepees (4–6 person, fully equipped) selling fast
-  - Backup: Camping Le Terriol, Cajarc (~5 km from venue) — [campingleterriol.com](https://www.campingleterriol.com/en/)
-
----
-
 ### Book Flights — 4–6 Months Out
 
 Fly into **Paris CDG**.
