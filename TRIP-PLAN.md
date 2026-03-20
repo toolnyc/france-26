@@ -73,7 +73,7 @@ Tours and Blois fill up fast in July.
 | Amboise *(optional)* | Camping Île d'Or · [camping-amboise.com](https://www.camping-amboise.com/) | ~€12–18 |
 | Blois ⚠️ book early | Éthic Étapes Val de Loire (**Accueil Vélo**) · [ethicetapes-blois.fr](https://www.ethicetapes-blois.fr/en/) | ~€50–70 |
 | Orléans | Auberge de Jeunesse d'Orléans · [aubergedejeunesseorleans.fr](http://www.aubergedejeunesseorleans.fr/) | ~€62–70 |
-| Paris (final nights) | Marais (3e/4e) · Montmartre (18e) · Bastille (11e/12e) | €100–180 |
+| Paris (final night, if needed) | Only if flight is next morning — budget hotel near CDG or central | €80–150 |
 
 > **Warmshowers.org** — free hosting by fellow cyclists. Register before you leave.
 
@@ -229,35 +229,23 @@ Girlfriend takes TGV **Paris Montparnasse → Angoulême** (~2h10, ~€30–60).
 - **Orléans → Paris Austerlitz TER** — ~1h · ~€15–20 + bike (luggage van, already reserved)
 - Early train arrives Paris ~8:15 AM
 
-**Paris: tourist day** — leave bikes at hotel, Métro day pass ~€16.
+Train arrives Paris Austerlitz ~8:15 AM. CDG is 45 min on RER B. **Book an evening departure** (7–10 PM) — that gives you most of the day in the city.
 
-**Morning**
-- **Notre-Dame** — fully reopened Dec 2024. Free to enter. Walk across to Île de la Cité.
-- **Sainte-Chapelle** — 100m from Notre-Dame inside the Palais de Justice. Best Gothic stained glass in the world. ~€15.
-- Walk Pont Neuf back across the Seine
+> Need 2.5–3 hours at CDG before departure for bike check-in. Evening flight = leave central Paris by ~4–5 PM.
+
+**Morning** — drop bags at hotel/luggage storage, head into the city
+- **Notre-Dame** — fully reopened Dec 2024. Free. Walk across to Île de la Cité.
+- **Sainte-Chapelle** — 100m from Notre-Dame. Best Gothic stained glass in the world. ~€15.
+- Walk Pont Neuf
 
 **Midday**
-- **Le Marais** (3e/4e) — **Place des Vosges**, Rue des Rosiers (falafel). Lunch: L'As du Fallafel or any brasserie with *le plat du jour*.
+- **Le Marais** (3e/4e) — **Place des Vosges**, Rue des Rosiers (falafel). Lunch here.
 
-**Afternoon — pick one or two**
+**Afternoon — pick one**
 - **Trocadéro** — free Eiffel Tower view, no queue
-- **Musée de Cluny** — small medieval museum; the Lady and the Unicorn tapestries
-- **Canal Saint-Martin** (10e) — iron footbridges, locks, zero tourists
+- **Canal Saint-Martin** (10e) — iron footbridges, locals, zero tourists
 
-**Evening**
-- **Montmartre / Sacré-Coeur** for sunset
-- Dinner: you're done riding — pick somewhere good
-
-> Most major museums closed Monday — check before visiting any specific institution.
-
-**Sleep:** Paris splurge hotel — Marais (3e/4e), Montmartre (18e), or Bastille (11e/12e). Book 2–3 months ahead.
-
----
-
-### July 13 — Fly Home
-
-- CDG from central Paris: RER B, ~45 min
-- Allow 2.5–3 hours before departure for bike check-in
+**~4–5 PM** — RER B to CDG (45 min). Check in. Fly.
 
 ---
 
